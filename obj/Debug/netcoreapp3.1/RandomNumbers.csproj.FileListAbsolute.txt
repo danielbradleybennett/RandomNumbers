@@ -1,0 +1,10 @@
+/Users/danielbennett/workspace/csharp/exercises/RandomNumbers/obj/Debug/netcoreapp3.1/RandomNumbers.csprojAssemblyReference.cache
+/Users/danielbennett/workspace/csharp/exercises/RandomNumbers/obj/Debug/netcoreapp3.1/RandomNumbers.AssemblyInfoInputs.cache
+/Users/danielbennett/workspace/csharp/exercises/RandomNumbers/obj/Debug/netcoreapp3.1/RandomNumbers.AssemblyInfo.cs
+/Users/danielbennett/workspace/csharp/exercises/RandomNumbers/bin/Debug/netcoreapp3.1/RandomNumbers.deps.json
+/Users/danielbennett/workspace/csharp/exercises/RandomNumbers/bin/Debug/netcoreapp3.1/RandomNumbers.runtimeconfig.json
+/Users/danielbennett/workspace/csharp/exercises/RandomNumbers/bin/Debug/netcoreapp3.1/RandomNumbers.runtimeconfig.dev.json
+/Users/danielbennett/workspace/csharp/exercises/RandomNumbers/bin/Debug/netcoreapp3.1/RandomNumbers.dll
+/Users/danielbennett/workspace/csharp/exercises/RandomNumbers/bin/Debug/netcoreapp3.1/RandomNumbers.pdb
+/Users/danielbennett/workspace/csharp/exercises/RandomNumbers/obj/Debug/netcoreapp3.1/RandomNumbers.dll
+/Users/danielbennett/workspace/csharp/exercises/RandomNumbers/obj/Debug/netcoreapp3.1/RandomNumbers.pdb
